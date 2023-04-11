@@ -33,7 +33,7 @@ The relationships was Automatically  Created.
 A One to One Bi-Directional relationship was created between the two tables.
 _Although I noticed i did not find a use for the automatically createdrelationship._
 
-## Visulization
+## Visualization
 The Report Comprises of 3 Pages:
 1. Home
 2. Action
