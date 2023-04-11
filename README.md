@@ -32,3 +32,21 @@ The relationships was Automatically  Created.
 
 A One to One Bi-Directional relationship was created between the two tables.
 _Although I noticed i did not find a use for the automatically createdrelationship._
+
+## Visulization
+The Report Comprises of 3 Pages:
+1. Home
+2. Action
+3. Details
+
+_**Note**: the clear all filter button is what sits above the power bi report navigation text on each report page._
+
+## Some insights from the Analysis
+- There are a total of 1470 employees, 882 of which are males and 588 are females.
+- 72 out of all employees were due for promotion.
+- 117 are expected to be laid off.
+- Most employees live in close proximity with the office.
+- Level one had the most employees by job level.
+- Off all job roles, Manager had the most due for promotion and the most due for layoff.
+- Sales Executive role had the most number of employees.
+
