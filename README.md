@@ -39,6 +39,8 @@ The Report Comprises of 3 Pages:
 2. Action
 3. Details
 
+![](Home_Page.PNG)
+
 _**Note**: the clear all filter button is what sits above the power bi report navigation text on each report page._
 
 ## Some insights from the Analysis
@@ -49,4 +51,6 @@ _**Note**: the clear all filter button is what sits above the power bi report na
 - Level one had the most employees by job level.
 - Off all job roles, Manager had the most due for promotion and the most due for layoff.
 - Sales Executive role had the most number of employees.
+
+## You can view a live version of the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNGQ0ZDc0MTItYzdkZS00YTViLTlkZmYtYzQwY2JhMzI5YzAxIiwidCI6Ijk5ZGRhNWRkLTYzNDYtNDc3OC04OTVmLWNkNGNiNjBhNDQxNiJ9)
 
